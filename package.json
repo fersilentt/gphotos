@@ -1,0 +1,17 @@
+{
+  "name": "gphotos",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Programming Directories</h1>",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^25.7.0",
+    "electron-packager": "^17.1.2",
+    "electron-window-state": "^5.0.3"
+  }
+}
