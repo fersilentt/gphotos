@@ -5,7 +5,7 @@
 </p>
 
 <br/>
-    <i>This application is a desktop interface to the Google Photos website, created in Electron</i>
+    <i>This application is a desktop interface to the Google Photos web site, created in Electron</i>
 <br/>
 <br/>
 
