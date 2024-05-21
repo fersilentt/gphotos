@@ -1,7 +1,7 @@
 <h1 align="center">GPhotos</h1>
 
 <p align="center">
-  <img src="https://github.com/fersilentt/ProgrammingDirectories/blob/master/resources/img/main_icon.png" width="8%" />
+  <img src="https://github.com/fersilentt/gphotos/blob/main/assets/icons/icon.png" width="8%" />
 </p>
 
 <br/>
@@ -11,6 +11,7 @@
 
 
 #### Build application
+---
 
 - Requirements
 
