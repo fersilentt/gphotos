@@ -4,7 +4,6 @@
   <img src="https://github.com/fersilentt/ProgrammingDirectories/blob/master/resources/img/main_icon.png" width="8%" />
 </p>
 
-
 <br/>
     <i>This application is a desktop interface to the Google Photos website, created in Electron</i>
 <br/>
@@ -12,6 +11,11 @@
 
 
 #### Build application
+
+- Requirements
+
+  - Node v16.20.2
+
 
 - To install all the modules run
 
