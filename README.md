@@ -5,7 +5,7 @@
 </p>
 
 <br/>
-    <i>This application is a desktop interface for Mac, GNU-Linux, of the Google Photos website, created in Electron</i>
+    <i>This application is a desktop interface for Windows, Mac, GNU-Linux, of the Google Photos website, created in Electron</i>
 <br/>
 <br/>
 
@@ -32,4 +32,12 @@ npm i electron@25.7.0
 npm i electron-packager@12.2.0
 npm install --save electron-window-state
 npm start
+```
+
+- Packaging the application
+
+```
+npm run package-mac
+npm run package-win
+npm run package-linux
 ```
