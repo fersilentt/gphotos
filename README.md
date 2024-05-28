@@ -41,3 +41,10 @@ npm run package-mac
 npm run package-win
 npm run package-linux
 ```
+
+- Create .dmg for Mac
+
+```
+chmod +x create-dmg.sh
+./create-dmg.sh
+```
